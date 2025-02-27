@@ -1,6 +1,6 @@
 # Cleaning Company Website - Project Proposal
 1. Tech Stack
-Frontend: React (with Tailwind CSS or Material-UI for styling(suggested by mentor))
+**Frontend: React (with Tailwind CSS or Material-UI for styling(suggested by mentor))
 Backend: Node.js with Express.js
 Database: MongoDB (hosted on MongoDB Atlas)
 Authentication: JSON Web Tokens (JWT)
